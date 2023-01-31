@@ -450,7 +450,7 @@ const News = () => {
 
   useEffect(() => {
     if (submittedQuery !== "") {
-      const url = `/news?q=${submittedQuery}`
+      const url = `https://sentiment-analysis-api-iq2m.onrender.com/news?q=${submittedQuery}`
       fetch(url, {
         method: "POST",
         headers: {
@@ -564,7 +564,7 @@ const Twitter = () => {
 
   useEffect(() => {
     if (submittedQuery !== "") {
-      const url = `/tweets?q=${submittedQuery}`
+      const url = `https://sentiment-analysis-api-iq2m.onrender.com/tweets?q=${submittedQuery}`
 
       fetch(url, {
         method: "POST",
