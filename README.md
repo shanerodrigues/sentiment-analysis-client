@@ -6,5 +6,5 @@ Sentiment Analysis is carried out by the library SentimentJS and identifies whet
 
 Made with React, with a NodeJS + Express backend and hosted on render.com
 
-Backend repository - [https://github.com/shanerodrigues/sentiment-analysis-api](Sentiment-Analysis-API)
+Backend repository - [Sentiment-Analysis-API](https://github.com/shanerodrigues/sentiment-analysis-api)
 
