@@ -218,7 +218,7 @@ function App() {
     <div>
       <div id="headerSection">
         <div id="headerContent">
-          <h1 style={{ color: "black" }}>Sentiment Tracker</h1>
+          <h1 style={{ color: "black" }}>Sentiment Analysis</h1>
           <div id="websiteOptions">
             <BtnChoice
               bgColor="#FF5700"
